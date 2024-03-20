@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+      "module": "commonjs",
+      "noImplicitAny": true,
+      "removeComments": true,
+      "preserveConstEnums": true,
+      "sourceMap": true
+  },
+  
+    "include": ["src/**/*.js"],
+    "files": [
+      "core.js",
+      "sys.js",
+      "types.js",
+  ]
+  
+}
